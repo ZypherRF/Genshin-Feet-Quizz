@@ -1,0 +1,79 @@
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/10/Genshin-Impact-Inazuma-art-concept.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+#name{
+    font-family: sans-serif;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    background-color: burlywood;
+}
+#submit{
+    background-color: hsl(0, 2%, 30%);
+    border-radius: 5px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.25s;
+    color: white;
+}
+#submit:hover{
+    background-color: hsl(0, 2%, 40%) ;
+}
+#h2{
+    color: rgb(17, 247, 255);
+}
+#img{
+    height: 400px;
+    width: 720px;
+}
+#ready{
+    height: 40px;
+    width: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: hsl(160, 100%, 75%);
+    border-radius: 6px;
+    border-color: black;
+    transition: 0.25s;
+    cursor: pointer;
+}
+#ready:hover{
+    background-color: hsl(160, 100%, 85%) ;
+}
+#Correct{
+    color: rgb(65, 230, 65);
+}
+#next{
+    border-radius: 6px;
+    width: 75px;
+    height: 30px;
+    background-color: rgb(255, 120, 131);
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-weight: bold;
+}
+#next1{
+    border-radius: 6px;
+    width: 75px;
+    height: 30px;
+    background-color: rgb(255, 120, 131);
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-weight: bold;
+}
+#p11{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#h111{
+    margin-top: 160px;
+}
